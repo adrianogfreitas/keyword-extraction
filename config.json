@@ -1,0 +1,10 @@
+{
+    "n-news": 100,
+    "n-keywords": 10,
+    "credentials": {
+        "consumer-key": "",
+        "consumer-secret": "",
+        "access-token": "",
+        "access-token-secret": ""
+    }
+}
